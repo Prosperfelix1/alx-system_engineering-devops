@@ -1,2 +1,2 @@
 #!/bin/bash
-Mkdir my_dir sudo chmod 751
+Mkdir my_dir chmod 751
