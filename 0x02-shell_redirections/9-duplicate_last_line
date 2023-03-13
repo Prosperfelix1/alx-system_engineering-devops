@@ -1,0 +1,2 @@
+#!/bin/bash
+uniq -D head -20 iacta | tail +20
