@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -D head -20 iacta | tail +20
+tail -n 1 < iacta >> iacta 
